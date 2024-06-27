@@ -1,9 +1,9 @@
-## Los chatbots son esenciales para las empresas, gestionando eficientemente consultas de clientes mediante Inteligencia Artificial, Aprendizaje Automático y Ciencia de Datos. 
-## Utilizan Redes Neuronales Recurrentes con datos JSON para entrenamiento en Python. La elección entre dominio específico o abierto depende del propósito del chatbot, mejorando su inteligencia y precisión con cada interacción. 
+## Chatbots are essential for businesses, efficiently managing customer queries using Artificial Intelligence, Machine Learning, and Data Science. 
+## They utilize Recurrent Neural Networks with JSON datasets for training in Python. The choice between specific domain or open domain depends on the chatbot's purpose, enhancing its intelligence and accuracy with each interaction. 
 
-## A medida que estos chatbots interactúan más con los usuarios, su inteligencia y precisión mejoran, gracias a la capacidad de aprender de las interacciones pasadas.
+## As these chatbots interact more with users, their intelligence and accuracy improve, thanks to their ability to learn from past interactions.
 
-### En este caso se trata de un ChatBot sencillo y facil de construir y así entender su funcionamiento. Estará compuesto por los siguientes ficheros:
+### In this case, it is a simple ChatBot that is easy to build and understand its operation. It will consist of the following files:
 
 ## Train_chatbot.py
 In this file, we will build and train the deep learning model that can classify and identify what the user is asking to the bot.
