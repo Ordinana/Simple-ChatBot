@@ -3,8 +3,7 @@
 
 ## A medida que estos chatbots interactúan más con los usuarios, su inteligencia y precisión mejoran, gracias a la capacidad de aprender de las interacciones pasadas.
 
-En este caso se trata de un ChatBot sencillo y facil de construir y así entender su funcionamiento.
-Estará compuesto por los siguientes ficheros:
+### En este caso se trata de un ChatBot sencillo y facil de construir y así entender su funcionamiento. Estará compuesto por los siguientes ficheros:
 
 ## Train_chatbot.py
 In this file, we will build and train the deep learning model that can classify and identify what the user is asking to the bot.
