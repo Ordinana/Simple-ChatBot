@@ -9,7 +9,8 @@ lemmatizer = WordNetLemmatizer()
 import json
 import pickle
 
-nltk.data.path.append("//wsl.localhost/Ubuntu-22.04/home/linuxordi/nltk_data")
+path_nltk = "your/nltk/path"
+nltk.data.path.append(path_nltk)
 try:
     nltk.data.find('tokenizers/punkt')
 except LookupError:
