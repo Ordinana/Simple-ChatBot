@@ -22,3 +22,6 @@ The pickle file can be used to store all the tag names to classify when we are p
 
 ## Words.pkl
 The words.pkl pickle file contains all the unique words that are the vocabulary of our model.
+
+Execute first "python3 train_chatbot.py" for training the model and "python3 gui_chatbot.py" for init the chatbot.
+
